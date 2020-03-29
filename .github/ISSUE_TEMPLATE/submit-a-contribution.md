@@ -1,5 +1,5 @@
 ---
-name: Submit a contributions
+name: Submit a contribution
 about: Participate to the eRum2020 CovidR contest.
 title: 'Your submission title'
 labels: 'submission'
