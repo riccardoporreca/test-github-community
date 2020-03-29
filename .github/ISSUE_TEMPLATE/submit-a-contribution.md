@@ -1,10 +1,12 @@
 ---
 name: Submit a contributions
 about: Participate to the eRum2020 CovidR contest.
-title: ''
+title: 'Your submission title'
 labels: 'submission'
 assignees: '@riccardoporreca'
 ---
+
+Submit your contributions by filling the following information
 
 ``` yaml
 # Contribution's title and author.
