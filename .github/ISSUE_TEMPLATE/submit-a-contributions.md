@@ -1,9 +1,9 @@
 ---
 name: Submit a contributions
-about: Describe this issue template's purpose here.
+about: Participate to the eRum2020 CovidR contest.
 title: ''
-labels: ''
-assignees: ''
+labels: 'submission'
+assignees: '@riccardoporreca'
 
 ---
 
