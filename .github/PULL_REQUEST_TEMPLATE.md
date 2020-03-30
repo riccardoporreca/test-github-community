@@ -1,31 +1,24 @@
----
-name: Submit a contribution
-about: Participate to the eRum2020 CovidR contest.
-title: 'Your submission title'
-labels: 'submission'
-assignees: '@riccardoporreca'
+Thanks for contributing your submission to the eRum2020 CovidR contest.
+
+Please make sure:
+
+- [ ] TBD
+
 ---
 
-Submit your contributions by filling the following information
+For CovidR maintainers
 
-``` yaml
-# Contribution's title and author.
-title: An Awesome COVID-19 Contribution
-author: The Autor
-# Short title to be used in the website Gallery menu
-menu_entry: Short title
-# URL of the public source code repository
-repository: https://github.com/user/repo
-# The type of contribution and how it can be featured as gallery content.
-# For a shiny app:
-type: shiny
-content: URL of the your shiny web app, e.g. https://user.shinyapps.io/my-app
-# Any online published resource (e.g. a website / report):
-type: webpage
-content: URL of the webpage, e.g. https://user.github.io/my-analysis
-# For more complex / heterogeneous contributions, you can create a GitHub
-# Gist (https://gist.github.com/) with the relevant information and pointers
-type: gist
-content: <script...> # you can place here what you get from the "Embed" button
+- [ ] Check the validity of the submission
+- [ ] Assess completeness of metadata
+- [ ] Check the integration of the new page in the website gallery (locally or via Actions's artifact)
+- [ ] Ask the participant to send an email at covidrcontest@erum.io
+- [ ] E-mail received
+- [ ] Merge the pull request
+- [ ] Create an initial paceholder comment
+```md
+Vote for this contribution by giving it a "Thumbs up"!
+
+_Please avoid using comments_
+---
 ```
-
+- [ ] Provide here the link to the contribution in the gallery: https://milano-r.github.io/erum2020-covidr-contest/___.html
