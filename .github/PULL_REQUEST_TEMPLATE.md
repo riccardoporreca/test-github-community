@@ -16,11 +16,10 @@ For CovidR maintainers
 - [ ] E-mail received
 - [ ] Merge the pull request
 - [ ] Create an initial paceholder comment
-```md
-Vote for this contribution by giving it a :+1:!
+    ```md
+    Vote for this contribution by giving it a :+1:!
 
-_Please avoid using comments or other reactions_
----
-```
+    _Please avoid using comments or other reactions_
+    ```
 - [ ] Provide here the link to the contribution as published to the gallery: https://milano-r.github.io/erum2020-covidr-contest/___.html
 - [ ] Lock the conversation
