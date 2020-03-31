@@ -1,19 +1,19 @@
 Thanks for contributing your submission to the eRum2020 CovidR contest.
 
-- [ ] The pull request title reflects should reflect your contribution
+- [ ] The title of this PR reflects your contribution
+- [ ] The pull request only includes one new `.yml` file under `contest/contributions`
 - [ ] Make sure "Enable edits from maintainers" is checked
-- [ ] The pull request includes only one new `.yml` file under `contest/contributions`.
-- [ ] Send an email at covidrcontest@erum.io
+- [ ] Send an email to covidrcontest@erum.io (we will for further direct communication down the road)
      - Subject: "Submission to CovidR: PR #00", where #00 is the number of this Pull Request
-     - Content: A full link to the this Pull REswuest
+     - Content: A full link to this Pull Request
 ---
 
 For CovidR maintainers
 
 - [ ] Check the validity of the submission
 - [ ] Assess completeness of metadata and possibly adjust the `.yml` file-name
-- [ ] Check the integration of the new page in the website gallery (locally or via Actions's artifact)
-- [ ] Ask the participant to send an email at covidrcontest@erum.io
+- [ ] Check the integration of the new page in the website gallery (locally or via Actions' artifact)
+- [ ] Make sure the email to covidrcontest@erum.io was received.
 - [ ] E-mail received
 - [ ] Merge the pull request
 - [ ] Create an initial paceholder comment
