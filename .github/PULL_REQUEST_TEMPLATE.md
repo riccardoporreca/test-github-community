@@ -10,6 +10,7 @@ Thanks for contributing your submission to the eRum2020 CovidR contest.
 
 For CovidR maintainers
 
+- [ ] Label the PR as "submission"
 - [ ] Check the validity of the submission
 - [ ] Assess completeness of metadata and possibly adjust the `.yml` file-name
 - [ ] Check the integration of the new page in the website gallery (locally or via Actions' artifact)
