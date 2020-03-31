@@ -29,3 +29,10 @@ type: gist
 content: <script...> # you can place here what you get from the "Embed" button
 ```
 
+In addition:
+
+- [ ] Send an email to covidrcontest@erum.io (for further direct communication down the road)
+     - Subject: "Submission to CovidR: Issue #00", where #00 is the number of this Issue
+     - Content: A full link to this Issue
+     
+If you have questions specific to your submission, used the comments in this Issue.
