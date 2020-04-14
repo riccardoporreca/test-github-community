@@ -12,6 +12,12 @@ Submit your contributions by filling the following information
 # Contribution's title and author.
 title: An Awesome COVID-19 Contribution
 author: The Autor
+abstract: |
+  Provide a short abstract with a brief description of your contribution and its
+  main features (max 800 characters). The usage of publicly available data 
+  should be explictly mentioned.
+  
+  The text can be broken across multiple lines, each indented with two spaces.
 # Short title to be used in the website Gallery menu
 menu_entry: Short title
 # URL of the public source code repository
